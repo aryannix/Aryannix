@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=🐬+im+itz+Aryan;🚀+simple++%7C+developer;🔥+My+Home+Dhaka+gazipur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=🐬+im+Aryan+🎀;🚀+simple++%7C+developer;🔥+My+Home+Dhaka+gazipur" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🧠 About Me
 ```json
 {
-  "name": "itz Aryan",
+  "name": "Aryan 🎀",
   "title": "Programmer | simple Developer",
   "xyz": ["Bots", "APIs"],
   "stack": ["Node.js", "python", "Express", "MongoDB"],
