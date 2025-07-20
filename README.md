@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝗶𝘁𝘇%20𝗔𝗿𝘆𝗮𝗻&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3c00,100:00ffe7&height=250&section=header&text=𝗔𝗿𝗬𝗔𝗡&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
