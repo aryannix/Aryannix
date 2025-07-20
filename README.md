@@ -9,7 +9,7 @@
 </p>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aryanx0999&label=Profile+Views&color=0e75b6&style=flat" /> </p> <p align="center"> <img src="https://img.shields.io/github/followers/aryanx0999?label=Follow%20Me&style=social" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aryannix&label=Profile+Views&color=0e75b6&style=flat" /> </p> <p align="center"> <img src="https://img.shields.io/github/followers/aryannix?label=Follow%20Me&style=social" /> </p>
 
 ## 🧠 About Me
 ```json
@@ -43,12 +43,12 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanx0999&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanx0999&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryannix&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryannix&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
 
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanx0999&theme=github-compact&bg_color=0d1117&color=00ffe7&line=ff3c00&point=ffffff&area=true" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryannix&theme=github-compact&bg_color=0d1117&color=00ffe7&line=ff3c00&point=ffffff&area=true" /> </p>
 
 <p align="center"> <a href="https://facebook.com/profile.php?id=61572658681308"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://t.me/itzaryan008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://wa.me/+8801894253289"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> </p>
