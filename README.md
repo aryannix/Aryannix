@@ -19,7 +19,7 @@
   "xyz": ["Bots", "APIs"],
   "stack": ["Node.js", "python", "Express", "MongoDB"],
   "contact": {
-    "Facebook": "fb.com/profile.php?id=61572658681308",
+    "Facebook": "https://fb.com/61575494292207",
     "Telegram": "@itzaryan008",
     "WhatsApp": "wa.me/+8801894253289"
   }
