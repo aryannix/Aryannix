@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=🐬+im+Aryan+🎀;🚀+simple++%7C+developer;🔥+My+Home+Dhaka+gazipur" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=🐬+im+Aryan+Rayhan;🚀+simple++%7C+developer;🔥+My+Home+Dhaka+gazipur" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 🧠 About Me
 ```json
 {
-  "name": "Aryan 🎀",
+  "name": "Aryan Rayhan",
   "title": "Programmer | simple Developer",
   "xyz": ["Bots", "APIs"],
   "stack": ["Node.js", "python", "Express", "MongoDB"],
@@ -51,4 +51,4 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryannix&theme=github-compact&bg_color=0d1117&color=00ffe7&line=ff3c00&point=ffffff&area=true" /> </p>
 
-<p align="center"> <a href="https://facebook.com/profile.php?id=61572658681308"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://t.me/itzaryan008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://wa.me/+8801894253289"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> </p>
+<p align="center"> <a href="https://www.facebook.com/profile.php?id=100001611578438"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://t.me/itzaryan008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://wa.me/+8801894253289"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> </p>
