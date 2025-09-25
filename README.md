@@ -16,10 +16,11 @@
 {
   "name": "Aryan Rayhan",
   "title": "Programmer | simple Developer",
-  "xyz": ["Bots", "APIs"],
+  "Dm": "nix",
+  "dev": ["Bots", "APIs", "nix"],
   "stack": ["Node.js", "python", "Express", "MongoDB"],
   "contact": {
-    "Facebook": "https://fb.com/61575494292207",
+    "Facebook": "https://fb.com/100001611578438",
     "Telegram": "@itzaryan008",
     "WhatsApp": "wa.me/+8801894253289"
   }
