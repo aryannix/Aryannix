@@ -15,14 +15,12 @@
 ```json
 {
   "name": "Aryan Rayhan",
-  "title": "Programmer | simple Developer",
-  "Dm": "nix",
-  "dev": ["Bots", "APIs", "nix"],
-  "stack": ["Node.js", "python", "Express", "MongoDB"],
+  "title": "Im a simple Developer",
+  "dev": ["Bots", "APIs", "Website"],
+  "stack": ["Node.js", "python", "Express", "MongoDB", "React", "Next", "HTML", "Css", "JavaScript"],
   "contact": {
     "Facebook": "https://fb.com/100001611578438",
-    "Telegram": "@itzaryan008",
-    "WhatsApp": "wa.me/+8801894253289"
+    "Telegram": "@aryannix"
   }
 }
 ```
@@ -52,4 +50,4 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryannix&theme=github-compact&bg_color=0d1117&color=00ffe7&line=ff3c00&point=ffffff&area=true" /> </p>
 
-<p align="center"> <a href="https://www.facebook.com/profile.php?id=100001611578438"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://t.me/itzaryan008"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://wa.me/+8801894253289"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> </p>
+<p align="center"> <a href="https://www.facebook.com/profile.php?id=100001611578438"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://t.me/aryannix"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a> </p>
