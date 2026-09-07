@@ -4,11 +4,11 @@
 # About Me
 ```json
 {
-  "name": "Aryan Rayhan",
+  "name": "Aryan Mugdho",
   "title": "Im a simple Developer",
   "skill": "Noob",
   "contact": {
-    "Facebook": "https://fb.com/100001611578438",
+    "Facebook": "https://www.facebook.com/profile.php?id=61592347586253",
     "Telegram": "@aryannix"
   }
 }
